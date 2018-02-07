@@ -20,4 +20,11 @@ void main(void)
 }}
 getch();
 
+
+
+
+kam satr
+kam satr
+login 
+
 }
